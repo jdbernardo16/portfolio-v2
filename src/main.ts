@@ -8,12 +8,12 @@ import Archive from "./views/archive/Index.vue"
 
 const routes = [
     {
-      path: "/",
+      path: "/portfolio-v2/",
       name: "Home",
       component: Home,
     },
     {
-      path: "/archive",
+      path: "/portfolio-v2/archive",
       name: "Archive",
       component: Archive,
     },
